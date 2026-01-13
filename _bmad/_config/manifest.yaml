@@ -1,0 +1,13 @@
+installation:
+  version: 6.0.0-alpha.23
+  installDate: 2026-01-13T18:22:21.425Z
+  lastUpdated: 2026-01-13T18:22:21.425Z
+modules:
+  - core
+  - bmm
+  - cis
+ides:
+  - codex
+  - gemini
+  - kilo
+  - kiro-cli
